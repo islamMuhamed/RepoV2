@@ -1,3 +1,4 @@
+# this is f2 main file
 <<<<<<< HEAD
 new f2 entry 
 =======
