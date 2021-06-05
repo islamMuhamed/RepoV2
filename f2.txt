@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hello f2
-=======
-hello f2
->>>>>>> RepoV2/RepoV2/master
-hi f2
+new f2 entry 
